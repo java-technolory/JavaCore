@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f87970-755e-4e90-8373-7ef54d4f719b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Additional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassContructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToReferImmepediateParentClassInstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/mta/edu/vn/test/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mta/edu/vn/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mta/edu/vn/test/Test.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="1202" column="33" selection-start-line="1202" selection-start-column="33" selection-end-line="1202" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReferCurrentClassInstanceVariable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#338#339#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#47#48#0" expanded="true" />
+                <element signature="e#83#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassContructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+              <folding>
+                <element signature="e#49#50#0" expanded="true" />
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsAnArgumentInTheMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#51#52#0" expanded="true" />
+                <element signature="e#72#73#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsArgumentInTheConstructorAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReturnCurrentClassInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#48#49#0" expanded="true" />
+                <element signature="e#74#75#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Additional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#48#49#0" expanded="true" />
+                <element signature="e#69#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str1</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/package-info.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReferCurrentClassInstanceVariable.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassMethod.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassContructor.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsAnArgumentInTheMethod.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsArgumentInTheConstructorAll.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReturnCurrentClassInstance.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/Additional.java" />
+        <option value="$PROJECT_DIR$/src/mta/edu/vn/test/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-97" />
+    <option name="y" value="119" />
+    <option name="width" value="1221" />
+    <option name="height" value="638" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-This-Keyword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-This-Keyword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-This-Keyword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-This-Keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-This-Keyword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-This-Keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-This-Keyword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-This-Keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="vn" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Additional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.Additional" />
+      <module name="Java-This-Keyword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.Test" />
+      <module name="Java-This-Keyword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="This_ToPassAsAnArgumentInTheMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.This_ToPassAsAnArgumentInTheMethod" />
+      <module name="Java-This-Keyword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="This_ToPassAsArgumentInTheConstructorAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.This_ToPassAsArgumentInTheConstructorAll" />
+      <module name="Java-This-Keyword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="This_ToReturnCurrentClassInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.edu.vn.test.This_ToReturnCurrentClassInstance" />
+      <module name="Java-This-Keyword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.edu.vn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.This_ToPassAsAnArgumentInTheMethod" />
+      <item itemvalue="Application.This_ToPassAsArgumentInTheConstructorAll" />
+      <item itemvalue="Application.This_ToReturnCurrentClassInstance" />
+      <item itemvalue="Application.Additional" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Additional" />
+        <item itemvalue="Application.This_ToReturnCurrentClassInstance" />
+        <item itemvalue="Application.This_ToPassAsArgumentInTheConstructorAll" />
+        <item itemvalue="Application.This_ToPassAsAnArgumentInTheMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f87970-755e-4e90-8373-7ef54d4f719b" name="Default Changelist" comment="" />
+      <created>1562293579746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562293579746</updated>
+      <workItem from="1562293584808" duration="9622000" />
+    </task>
+    <task id="LOCAL-00001" summary="Upload Project :smile:">
+      <created>1562298999681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562298999681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upload Project :smile:">
+      <created>1562299348373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562299348373</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9622000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload Project :smile:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Project :smile:" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReferCurrentClassInstanceVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#47#48#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToInvokeCurrentClassContructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <element signature="e#49#50#0" expanded="true" />
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsAnArgumentInTheMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#51#52#0" expanded="true" />
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToPassAsArgumentInTheConstructorAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/This_ToReturnCurrentClassInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#48#49#0" expanded="true" />
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Additional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#48#49#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1202" column="33" selection-start-line="1202" selection-start-column="33" selection-end-line="1202" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mta/edu/vn/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
