@@ -11,7 +11,7 @@ public class ThreadJoinExample {
 
         // start second thread after waiting for 2 seconds or if it's dead
         try {
-            t1.join(0);
+            t1.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -19,22 +19,22 @@ public class ThreadJoinExample {
         t2.start();
 
         // start third thread only when first thread is dead
-        try {
+/*        try {
             t1.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
+        }*/
 
         t3.start();
 
         // let all threads finish execution before finishing main thread.
-        try {
+/*        try {
             t1.join();
             t2.join();
             t3.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
-        }
+        }*/
         System.out.println("All threads are dead, exiting main thread");
     }
 
