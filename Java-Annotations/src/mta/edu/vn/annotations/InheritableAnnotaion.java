@@ -9,6 +9,7 @@ public @interface InheritableAnnotaion {
 
 }
 
+@InheritableAnnotaion
 interface A {
     public void getA();
 }
