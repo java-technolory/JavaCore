@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29b725b2-4529-4c63-950e-c318dd3c89da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/.idea/artifacts/APTProcesser_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/.idea/artifacts/APTProcesser_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/APTProcesser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/APTProcesser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/META-INF/services/javax.annotation.processing.Processor" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/META-INF/services/javax.annotation.processing.Processor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/PublicFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/ann/PublicFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/ActionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/ActionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/ControllerProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/ControllerProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/PublicFinalProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/aptprocessor/PublicFinalProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/log/DevLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../APTProcesser/src/mta/edu/vn/log/DevLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/Inner-Class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/Inner-Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/out/production/Inner-Class/META-INF/Inner-Class.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/OuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/LocalInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/LocalInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/TestAnnonymousInnerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/TestAnnonymousInnerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/TestAnonymousInnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/anonymous/TestAnonymousInnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/interfaces/NestedInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/interfaces/NestedInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/interfaces/NestedInterfaceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/interfaces/NestedInterfaceClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/static_nested/StaticClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/static_nested/StaticClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/static_nested/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inner-Class/src/com/member/inner/static_nested/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/Java-8-Interface-Changes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/Java-8-Interface-Changes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/Interface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/Interface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/Interface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/defaultmethod/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/staticmethod/MyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/staticmethod/MyData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/staticmethod/MyDataImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-Interface-Changes/src/mta/edu/vn/java8/staticmethod/MyDataImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/Java-8-New-Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/Java-8-New-Learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/defaultmethod/DefaultMethodExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/defaultmethod/DefaultMethodExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/lambda/LambdaExpressionExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/lambda/LambdaExpressionExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/methodreference/MethodReferenceExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-8-New-Learn/src/mta/edu/vn/java8/methodreference/MethodReferenceExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/Java-Annotations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/Java-Annotations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithRetention.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithRetention.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithTarger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/AnnotaionWithTarger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/ExcelColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/ExcelColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/InheritableAnnotaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/InheritableAnnotaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatableAnnotaion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatingAnnotaions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/RepeatingAnnotaions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotationWithValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/SimpleAnnotationWithValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/annotations/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Columns.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Columns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/InheritableAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/InheritableAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/MyAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Tables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/demo/Tables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFieldInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFieldInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/DayOfTheWeekInterfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/enums/EnumSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotaionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotaionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotationParsing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/AnnotationParsing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/MethodInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Annotations/src/mta/edu/vn/test/MethodInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/Java-Comparable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/Java-Comparable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparable/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/Java-Comparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/Java-Comparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Comparator/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/Java-Constructor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/Java-Constructor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/constructor/CopyConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/constructor/CopyConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/constructor/Fruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/constructor/Fruits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Constructor/src/mta/edu/vn/demo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/Java-Enum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/Java-Enum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStatesConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/enums/ThreadStatesConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/MyEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Enum/src/mta/edu/vn/test/MyEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/Java-Equal()-Method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/Java-Equal()-Method.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/data/DataKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/data/DataKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/test/HashingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Equal()-Method/src/mta/edu/vn/test/HashingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/Java-Generics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/Java-Generics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/BoxOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/BoxOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/BoxTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/BoxTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/ClassImplemeningGenericInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericBoundedTypeParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericClassImplementingGenericInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericClassOneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericHeritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericHeritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericWildcards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericsTypeOld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GenericsTypeOld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GuidelineForWildcardUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/GuidelineForWildcardUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/LowerBoundedWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/classs/LowerBoundedWildcards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceOneType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceOneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/interfaces/GenericIntefaceSeveralTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericMethodTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/methods/GenericsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoCast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoPrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/restriction/NoPrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/GenericMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/GenericMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/GenericTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/GenericTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/gennerics/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Generics/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/Java-Multithread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/Java-Multithread.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/RejectedExecutionHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/RejectedExecutionHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/SimpleThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/SimpleThreadPoolExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Waiting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/Waiting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/examination/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/HeavyWorkRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/HeavyWorkRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ProducerConsumerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ProducerConsumerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ThreadJoinExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ThreadJoinExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ThreadSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/ThreadSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/callable/MyCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/callable/MyCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/callable/MyCallableExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/callable/MyCallableExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/common/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/common/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deadlock/DeadLockExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deadlock/DeadLockExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/DeamonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/DeamonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/NonDeamonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/NonDeamonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/deamon/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/garbagecollection/TestGrabage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/garbagecollection/TestGrabage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/TestInterruptingThread4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/interrupt/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/join/JoinMethod_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/join/JoinMethod_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/lock/ClassLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/lock/ClassLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/lock/ObjectLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/lock/ObjectLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/multipletask/TestMultitasking5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/reentrant/ReentrantExample01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/reentrant/ReentrantExample01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/Runtime3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/ShutdownHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/runtimeclass/ShutdownHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/scheduler/ScheuledThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/scheduler/ScheuledThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/scheduler/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/scheduler/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/sleep/SleepMethod_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/sleep/SleepMethod_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/StaticSynchronization01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/StaticSynchronization01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/StaticSynchronization02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/StaticSynchronization02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/SynchronizedMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/SynchronizedMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestNonSynchronizationMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestNonSynchronizationMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizationMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizationMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizedBlock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizedBlock1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizedBlock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/synchronization/TestSynchronizedBlock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadgroup/ThreadGroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadgroup/ThreadGroupDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadlocal/ThreadLocalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadlocal/ThreadLocalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/MyMonitorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/MyMonitorThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/RejectedExecutionHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/RejectedExecutionHandlerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/ThreadSafety.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/ThreadSafety.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/WorkerPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/WorkerPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/threadpool/WorkerThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/timertask/MyTimerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/timertask/MyTimerTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Notifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/WaitNotifyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Multithread/src/mta/edu/vn/threads/wait_notify/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/Java-Reflection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/Java-Reflection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateFieldExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateFieldExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/AccessPrivateMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ChangeStaticFinalFieldExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ChangeStaticFinalFieldExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ClassAnnotationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ClassAnnotationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Excel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ExcelColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ExcelColumn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/FieldMethodAnnotationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/FieldMethodAnnotationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/MyAnnotaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/MyAnnotaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ParameterAnnotationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ParameterAnnotationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectFieldExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectFieldExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/ReflectMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Say.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/example/Say.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/BaseInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/ConcreteClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/ConcreteClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/BookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/ObjectToXmlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/ObjectToXmlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlElementWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlElementWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlRootElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/reflection_vs_annotation/XmlRootElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Reflection/src/com/mta/edu/test/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/Java-Set-LinkedHashSet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/Java-Set-LinkedHashSet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/test/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Set-LinkedHashSet/src/mta/edu/vn/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/Java-Static-Keyword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/Java-Static-Keyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/example/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/example/StaticExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/example/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/example/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/test/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/test/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/test/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Static-Keyword/src/mta/edu/vn/test/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/Java-String-Join().iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/Java-String-Join().iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/src/mta/edu/vn/demo/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/src/mta/edu/vn/demo/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-String-Join()/src/mta/edu/vn/test/Java_String_Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-String-Join()/src/mta/edu/vn/test/Java_String_Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/Java-Super-Keyword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/Java-Super-Keyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Additional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Additional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassContructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassContructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToInvokeParentClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToReferImmepediateParentClassInstanceVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/Super_ToReferImmepediateParentClassInstanceVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Super-Keyword/src/mta/edu/vn/test/info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/Java-This-Keyword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/Java-This-Keyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/Additional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/Additional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToInvokeCurrentClassContructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToInvokeCurrentClassContructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToInvokeCurrentClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToInvokeCurrentClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToPassAsAnArgumentInTheMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToPassAsAnArgumentInTheMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToPassAsArgumentInTheConstructorAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToPassAsArgumentInTheConstructorAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToReferCurrentClassInstanceVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToReferCurrentClassInstanceVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToReturnCurrentClassInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-This-Keyword/src/mta/edu/vn/test/This_ToReturnCurrentClassInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/Java-Wraper-Autoboxing-Unboxing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/Java-Wraper-Autoboxing-Unboxing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/src/mta/edu/vn/wrapper/WrapperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Wraper-Autoboxing-Unboxing/src/mta/edu/vn/wrapper/WrapperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/Java_HeapSpace_Stack_MemoryAllocation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/Java_HeapSpace_Stack_MemoryAllocation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/mta/edu/vn/test/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_HeapSpace_Stack_MemoryAllocation/src/mta/edu/vn/test/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/ReadExcelDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/ReadExcelDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/dao/EmployeeDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/dao/EmployeeDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/test/ReadExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/test/ReadExcelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/test/WriteExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadExcelDemo/src/main/java/mta/edu/vn/test/WriteExcelDemo.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Qbi02EDuzFtQFvtFs2QA6kZ2Rf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29b725b2-4529-4c63-950e-c318dd3c89da" name="Default Changelist" comment="" />
+      <created>1568045469772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568045469772</updated>
+      <workItem from="1568045471554" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
