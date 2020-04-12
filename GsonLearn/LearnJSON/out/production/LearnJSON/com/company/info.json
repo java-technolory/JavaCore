@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "Hai",
+    "age": 23,
+    "mail": "haiphan97@gmail.com"
+  },
+  {
+    "firstName": "Hai",
+    "age": 23,
+    "mail": "haiphan97@gmail.com",
+    "address": {
+      "country": "Vietnam",
+      "city": "Hanoi"
+    }
+  },
+  {
+    "firstName": "Hai",
+    "age": 23,
+    "mail": "haiphan97@gmail.com",
+    "address": {
+      "country": "Vietnam",
+      "city": "Hanoi"
+    },
+    "family": [
+      {
+        "role": "Wife",
+        "age": 23
+      },
+      {
+        "role": "Son",
+        "age": 2
+      }
+    ]
+  }
+]

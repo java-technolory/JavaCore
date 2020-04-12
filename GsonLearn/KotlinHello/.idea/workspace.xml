@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c9e258-5b65-4f1c-b9bb-1588dd19a5aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/main/RetrofitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/model/FamilyMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearnJSON/src/com/company/remote/ApiRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/BackTracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Tranning/Recursion/src/mta/edu/vn/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library Jar/converter-gson-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library Jar/gson-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library Jar/okhttp-4.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library Jar/okio-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Library Jar/retrofit-2.8.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Algorithm/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-Algorithm/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/array/CountElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/array/CountElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/array/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/array/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/linkedlist/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-Algorithm/out/production/Java-Algorithm/mta/edu/vn/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-I0/.idea/Java-I0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-I0/.idea/Java-I0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-I0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-I0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java-I0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java-I0/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aPBRWqXcUfPK6Wccm7XkoH4dg8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c9e258-5b65-4f1c-b9bb-1588dd19a5aa" name="Default Changelist" comment="" />
+      <created>1586627340984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586627340984</updated>
+    </task>
+    <servers />
+  </component>
+</project>
