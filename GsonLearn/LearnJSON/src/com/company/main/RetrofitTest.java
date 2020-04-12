@@ -4,16 +4,18 @@ import com.company.model.*;
 import com.company.remote.ApiRequest;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import okhttp3.ConnectionPool;
-import okhttp3.Dispatcher;
-import okhttp3.OkHttpClient;
+import okhttp3.*;
+import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+import java.io.IOException;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
@@ -28,26 +30,46 @@ public class RetrofitTest {
 
     public static void main(String[] args) {
 
+        //
         Dispatcher dispatcher = new Dispatcher(Executors.newFixedThreadPool(20));
         dispatcher.setMaxRequests(20);
         dispatcher.setMaxRequestsPerHost(1);
 
+        //
+        HttpLoggingInterceptor loggingInterceptor = new HttpLoggingInterceptor();
+        loggingInterceptor.setLevel(HttpLoggingInterceptor.Level.BODY);
+
+        //
         OkHttpClient okHttpClient = new OkHttpClient.Builder()
                 .dispatcher(dispatcher)
                 .connectionPool(new ConnectionPool(100, 30, TimeUnit.SECONDS))
+                .addInterceptor(new Interceptor() {
+                    @Override
+                    public okhttp3.Response intercept(Chain chain) throws IOException {
+                        Request originalRequest = chain.request();
+                        Request newRequest = originalRequest
+                                .newBuilder()
+                                .header("Interceptor-Header", "xyz")
+                                .build();
+                        return chain.proceed(newRequest);
+                    }
+                })
+                .addInterceptor(loggingInterceptor)
                 .build();
 
+        //
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(okHttpClient)
                 .build();
 
+        //
         apiRequest = retrofit.create(ApiRequest.class);
         gson = new GsonBuilder().setPrettyPrinting().create();
 
         // Get All Posts
-//        getPosts();
+        getPosts();
 
         // Get Post By User Id
         // https://jsonplaceholder.typicode.com/posts?userId=1
@@ -63,10 +85,10 @@ public class RetrofitTest {
 //        updatePostById(1);
 
         // Patch Post By Id
-        patchPostById(1);
+//        patchPostById(1);
 
         // Delete Post By Id
-        deletePostById(1);
+//        deletePostById(1);
 
         // Get All Comments
 //        getComments();
@@ -113,7 +135,8 @@ public class RetrofitTest {
 
     //
     private static void getPostByUserIdUseQuery(Integer userId) {
-        apiRequest.getPostByUserIdUseQuery(userId).enqueue(new Callback<List<PostModel>>() {
+
+        apiRequest.getPostByUserIdUseQuery("abc", userId).enqueue(new Callback<List<PostModel>>() {
             @Override
             public void onResponse(Call<List<PostModel>> call, Response<List<PostModel>> response) {
                 if (response.isSuccessful()) {
@@ -126,6 +149,59 @@ public class RetrofitTest {
 
             }
         });
+
+        //
+//        Integer[] id = {1, 2, 3};
+//        String sort = "id";
+//        String order = "desc";
+//        apiRequest.getPostByUserIdUseQuery(id, sort, order).enqueue(new Callback<List<PostModel>>() {
+//            @Override
+//            public void onResponse(Call<List<PostModel>> call, Response<List<PostModel>> response) {
+//                if (response.isSuccessful()) {
+//                    System.out.println(gson.toJson(response.body()));
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<List<PostModel>> call, Throwable throwable) {
+//                System.err.println("ERROR!");
+//            }
+//        });
+
+        //
+//        apiRequest.getPostByUserIdUseQuery(1, 2, 3, null, null).enqueue(new Callback<List<PostModel>>() {
+//            @Override
+//            public void onResponse(Call<List<PostModel>> call, Response<List<PostModel>> response) {
+//                if (response.isSuccessful()) {
+//                    System.out.println(gson.toJson(response.body()));
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<List<PostModel>> call, Throwable throwable) {
+//                System.err.println("ERROR!");
+//            }
+//        });
+
+        //
+//        Map<String, String> parameters = new HashMap<>();
+//        parameters.put("userId", "1");
+//        parameters.put("_sort", "id");
+//        parameters.put("_order", "desc");
+//        apiRequest.getPostByUserIdUseQuery(parameters).enqueue(new Callback<List<PostModel>>() {
+//            @Override
+//            public void onResponse(Call<List<PostModel>> call, Response<List<PostModel>> response) {
+//                if (response.isSuccessful()) {
+//                    System.out.println(gson.toJson(response.body()));
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<List<PostModel>> call, Throwable throwable) {
+//
+//            }
+//        });
+
     }
 
     //
@@ -148,8 +224,42 @@ public class RetrofitTest {
 
     //
     private static void createPost() {
-        PostModel post = new PostModel(1, "New Title", "New Body");
-        apiRequest.insertPost(post).enqueue(new Callback<PostModel>() {
+//        PostModel post = new PostModel(1, "New Title", "New Body");
+//        apiRequest.createPost(post).enqueue(new Callback<PostModel>() {
+//            @Override
+//            public void onResponse(Call<PostModel> call, Response<PostModel> response) {
+//                if (response.isSuccessful()) {
+//                    System.out.println(gson.toJson(response.body()));
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<PostModel> call, Throwable throwable) {
+//
+//            }
+//        });
+
+        //
+//        apiRequest.createPost(1, "New Title", "New Body").enqueue(new Callback<PostModel>() {
+//            @Override
+//            public void onResponse(Call<PostModel> call, Response<PostModel> response) {
+//                if (response.isSuccessful()) {
+//                    System.out.println(gson.toJson(response.body()));
+//                }
+//            }
+//
+//            @Override
+//            public void onFailure(Call<PostModel> call, Throwable throwable) {
+//
+//            }
+//        });
+
+        //
+        Map<String, String> fileds = new HashMap<>();
+        fileds.put("userId", "1");
+        fileds.put("title", "New Title Map");
+        fileds.put("body", "New Body Map");
+        apiRequest.createPost(fileds).enqueue(new Callback<PostModel>() {
             @Override
             public void onResponse(Call<PostModel> call, Response<PostModel> response) {
                 if (response.isSuccessful()) {
@@ -167,7 +277,10 @@ public class RetrofitTest {
     //
     private static void updatePostById(int id) {
         PostModel post = new PostModel(2, "New Title", "New Body");
-        apiRequest.updatePostById(post, 1).enqueue(new Callback<PostModel>() {
+        Map<String, String> headers = new HashMap<>();
+        headers.put("Map-Header1", "def");
+        headers.put("Map-Header2", "ghi");
+        apiRequest.updatePostById(headers, post, 1).enqueue(new Callback<PostModel>() {
             @Override
             public void onResponse(Call<PostModel> call, Response<PostModel> response) {
                 if (response.isSuccessful()) {
